@@ -12,9 +12,11 @@
     "dev": "tsx watch src/index.ts"
   },
   "dependencies": {
+    "base-64": "^1.0.0",
     "express": "^5.2.1"
   },
   "devDependencies": {
+    "@types/base-64": "^1.0.2",
     "@types/express": "^5.0.6",
     "@types/node": "^26.6.3",
     "tsx": "^4.23.15",
